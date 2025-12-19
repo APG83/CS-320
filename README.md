@@ -1,4 +1,5 @@
 CS 320 Portfolio Reflection
+
 How can I ensure that my code, program, or software is functional and secure?
 
 I ensure that my software is functional and secure by using unit testing, validation, and defensive programming techniques throughout development. In Project One, I created JUnit tests for the Contact and ContactService classes to verify that all requirements were met, including data validation rules and expected behaviors. Writing tests alongside the code helped catch errors early and ensured that each method behaved correctly under both valid and invalid inputs.
